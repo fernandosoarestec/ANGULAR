@@ -1,0 +1,7 @@
+sudo npm install -g @angular/cli
+ng -version 
+ng new crud-angular
+ng serve 
+ng g m courses criar componente
+ng g m clientes --routing; --criar componente e rota
+ng g c; --criar componente
