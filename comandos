@@ -2,6 +2,12 @@ sudo npm install -g @angular/cli
 ng -version 
 ng new crud-angular
 ng serve 
-ng g m courses criar componente
+ng g m courses criar modulo
 ng g m clientes --routing; --criar componente e rota
 ng g c; --criar componente
+ng g c clientes/clientes; 
+ng g interface clientes/model/clientes
+ng g m shared/app-material
+ng g s clientes/services/clientes
+ng g m shared
+ng g c shared/components/error-dialog
